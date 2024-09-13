@@ -15,11 +15,10 @@
 1. 📄 **Docker Get Started Guide** – [Official Docker Documentation](https://docs.docker.com/get-started/).
 2. 🎥 **Free Courses**: 
    - Docker for Beginners on **Udemy**: [Course Link](https://www.udemy.com/course/docker-for-beginners/).
-   - Docker 101 on **Katacoda**: [Interactive Labs](https://www.katacoda.com/courses/docker).
 3. 📘 **Books**: *Docker Deep Dive* by Nigel Poulton.
 4. 🛠️ **Hands-on Tools**: 
    - **Play with Docker** (Browser-based environment): [Play with Docker](https://labs.play-with-docker.com/).
-   - **Docker Playground**: [Docker Playground](https://www.katacoda.com/courses/docker/playground).
+   - **Docker Playground**: [Docker Playground](https://www.docker.com/play-with-docker).
 
 ---
 
@@ -30,12 +29,10 @@
 1. 📄 **Kubernetes Concepts**: [Kubernetes Documentation](https://kubernetes.io/docs/concepts/).
 2. 🎥 **Free Courses**:
    - Kubernetes for Beginners on **Udemy**: [Course Link](https://www.udemy.com/course/kubernetes-for-beginners/).
-   - Kubernetes on **Katacoda**: [Kubernetes Labs](https://www.katacoda.com/courses/kubernetes).
 3. 📘 **Books**: *Kubernetes Up & Running* by Kelsey Hightower.
 4. 🛠️ **Hands-on Tools**:
    - **Minikube**: Set up a Kubernetes cluster locally. [Minikube Guide](https://minikube.sigs.k8s.io/docs/start/).
-   - **Play with Kubernetes**: [Play with K8s](https://labs.play-with-k8s.com/).
-   - **k3s** (Lightweight Kubernetes): [k3s Documentation](https://k3s.io/).
+   - **Play with Kubernetes**: [Killercoda (Katacoda Alternative)](https://killercoda.com/).
 
 ---
 
@@ -51,8 +48,7 @@
    - *Managing Kubernetes* by Brendan Burns.
 4. 🛠️ **Hands-on Tools**:
    - **Helm**: Manage applications using Helm. [Helm Documentation](https://helm.sh/docs/).
-   - **Kubernetes Playground**: [KubePlay](https://www.katacoda.com/courses/kubernetes/playground).
-   - **Interactive Labs** (Katacoda).
+   - **Kubernetes Playground**: [Killercoda (Katacoda Alternative)](https://killercoda.com/).
 
 ---
 
@@ -65,7 +61,6 @@
    - [Kubernetes Hardening Guide (NSA)](https://media.defense.gov/2021/Aug/03/2002820386/-1/-1/0/CSA_KUBERNETES_HARDENING_GUIDANCE.PDF).
 2. 🎥 **Free Courses**:
    - Kubernetes Security Fundamentals on **Udemy**: [Course Link](https://www.udemy.com/course/kubernetes-security-fundamentals/).
-   - Security-focused labs on **Katacoda**: [Security Labs](https://katacoda.com/courses/kubernetes/security).
 3. 📘 **Books**: *Kubernetes Security* by Liz Rice.
 4. 🛠️ **Tools**:
    - **Trivy** for image scanning: [Trivy Documentation](https://aquasecurity.github.io/trivy/v0.18.3/).
